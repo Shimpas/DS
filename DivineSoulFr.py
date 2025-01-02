@@ -22,7 +22,7 @@ smtp_user = 'delivery@mydivinesoul.com'
 smtp_password = 'tbhi oaqc jwtb dhpe'
 
 # Configuração da API OpenAI
-api_key = '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'
+api_key = ''
 
 # Credenciais do Google Sheets
 scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets', "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
